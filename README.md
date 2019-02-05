@@ -1,11 +1,13 @@
 # JQuery Optional Number Step
 Dynamic HTML5 number step.
 
-Why?
-
 HTML5 forms has own validation for `step` rule.
 
 This plugin add `step` attribute to field temporarily while changes are made.
+
+Demo
+
+https://codepen.io/ArtZ91/pen/omePje
 
 How to use
 1. include `jquery.number-step.js` script to your web page. jQuery required!
