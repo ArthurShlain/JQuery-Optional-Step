@@ -5,6 +5,10 @@ HTML5 forms has own validation for `step` rule.
 
 This plugin add `step` attribute to field temporarily while changes are made.
 
+You can specify any numeric value on keyboard. 
+
+HTML5 step validation will not be applied.
+
 Demo
 
 https://codepen.io/ArtZ91/pen/omePje
